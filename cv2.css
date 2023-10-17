@@ -137,12 +137,15 @@ img {
     left: 25px; /* Adjust the left position as needed */
     margin-bottom: 10px; /* Set the margin-bottom property correctly */
     text-align: left
+    
 }
 
 
 .position-profile h5{
     text-align: left;
     border-bottom: 2px solid black;
+    padding-bottom: 2px;
+    
     
 }
 
@@ -158,11 +161,14 @@ img {
 .position-career h5 {
     text-align: left;
     border-bottom: 2px solid black;
+    padding-bottom: 2px;
+    
 }
 
 .dates{
     color: rgb(41, 142, 224);
-    margin-top: 20px;
+    margin-top: 30px;
+    font-weight: bold;
 }
 
 

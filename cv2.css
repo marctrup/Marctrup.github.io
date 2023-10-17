@@ -12,15 +12,19 @@ body {
 
 /* Left-border section styles */
 .left-border {
-    width: 300px;
+    width:300px;
     background-color: rgb(227, 231, 231);
     padding: 10px;
+    
 }
 
 img {
     margin-top: 30px;
     width: 200px; /* Set the desired width */
     height: auto; /* Maintain the aspect ratio */
+    margin-right:10px
+
+    
 }
 
 .contact-details h6 {
@@ -71,7 +75,7 @@ img {
 .position-text-box {
     border: 2px solid rgb(41, 142, 224);
     margin-top: 39px; 
-    width: 600px;
+    width: 700px;
     height: 140px;
     position: relative;
     left: -100px;
@@ -81,6 +85,8 @@ img {
     align-items: center; /* Center content horizontally */
     text-align: center; /* Center the text horizontally */
     background-color: white; /* Set the background color to white */
+    margin-left: 50px
+    
 }
 
 /* Styles for the headers */

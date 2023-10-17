@@ -8,11 +8,12 @@ body {
     display: flex;
     min-height: 100vh;
     
+    
 }
 
 /* Left-border section styles */
 .left-border {
-    width:400px;
+    width: 400px;
     background-color: rgb(227, 231, 231);
     padding: 10px;
     

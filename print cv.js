@@ -1,4 +1,0 @@
-
-function printDocument() {
-    window.print();
-}
